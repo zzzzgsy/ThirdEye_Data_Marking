@@ -1,0 +1,29 @@
+mac 00:db:19:02:80:5b
+base64 MDA6ZGI6MTk6MDI6ODA6NWI
+       MDA6REI6MTk6MDI6ODA6NUI
+       MDBkYjE5MDI4MDVi
+       MDBEQjE5MDI4MDVC
+md5    71a669d80e3e568b29b7fc1a3b972d06
+       7ce48ddae6f2f89ed3e83d9ee3ff2a97
+       ca29eefd330a09e7de0187795b4fcf2f
+       	061ecb27e8300922ae968d4b25002c6f
+
+ip  10.201.65.111
+ipv6 fe80::2db:19ff:fe02:805b
+
+deviceid:6d3a350bee30d790
+base64 NmQzYTM1MGJlZTMwZDc5MA==
+md5 80f54dce2345cb8719813a29e39226d8
+
+imei:867632027621764
+imei_md5:75501151a278577c4666eac43f22dedf
+base64 ODY3NjMyMDI3NjIxNzY0
+
+wifi:kuaiyu-lRkxBE
+a3VhaXl1LWxSa3hCRQ==
+
+proxy: 10.201.67.194 8081
+
+name:RMX1931 
+型号：HD1910
+序列号：emulator-5560
